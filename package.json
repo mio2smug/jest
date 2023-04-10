@@ -1,0 +1,23 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mio2smug/jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mio2smug/jest/issues"
+  },
+  "homepage": "https://github.com/mio2smug/jest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
